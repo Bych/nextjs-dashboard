@@ -1,0 +1,38 @@
+# Next.js build output
+.next
+out/
+
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: Exclude the npm/yarn lock files (not recommended if working on a team project)
+# package-lock.json
+# yarn.lock
+
+# Optional: Exclude Markdown files (MDX) used only for documentation in development
+# *.mdx
+
+# Optional: Exclude specific static files or directories from public/
+# public/some-directory/
+# public/some-file.txt

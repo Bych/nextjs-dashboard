@@ -1,5 +1,8 @@
 ## Simple Dashboard
 
+Live Demo:
+- [Click here](https://nextjs-dashboard-six-theta-93.vercel.app/dashboard)
+
 Tech:
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)

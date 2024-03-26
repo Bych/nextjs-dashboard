@@ -1,5 +1,15 @@
-## Next.js App Router Course - Starter
+## Simple Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Tech:
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel Postgres](https://vercel.com/storage/postgres)
+- [Zod](https://zod.dev/)
+- [Next-Auth](https://next-auth.js.org/)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+Login Credentials:
+- Email: user@nextmail.com
+- Password: 123456
